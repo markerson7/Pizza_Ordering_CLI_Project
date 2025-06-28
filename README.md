@@ -89,9 +89,11 @@ dart pug get
 ```bash
 dart run bin/pizze_ordering.dart
 
+----
 
 
-#🧭 Notes
+
+###🧭 Notes
 If user input is invalid (e.g. wrong index, letters instead of numbers), the app will re-prompt until a valid choice is entered.
 Multiple toppings can be selected by entering indices separated by commas (e.g. 0,2,5).
 
@@ -121,5 +123,3 @@ JSON storage
 #📜 License 
 Free for educational use. Modify as needed for your project submission.
 
-# Pizza_Ordering_CLI_Project
-This is a Dart command-line application that implements a pizza ordering system with full input validation, order persistence to JSON, and customizable pizza options. 
