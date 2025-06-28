@@ -1,1 +1,1 @@
-{"orderId":1,"customer":{"name":"paul","address":"123","phoneNumber":"1234"},"isDelivery":false,"dateTime":"2025-06-27T17:13:13.826061","pizzas":["Pizza(numSlices: 3, meat: MeatType.CHICKEN, veg: VeggieType.PEPPER, crust: CrustType.THICK, toppings: {Topping.JALAPENOS, Topping.GARLIC, Topping.PESTO}, size: Size.LARGE, price: $27.90)","Pizza(numSlices: 6, meat: MeatType.CHICKEN, veg: VeggieType.SPINACH, crust: CrustType.THIN, toppings: {Topping.PINEAPPLE, Topping.JALAPENOS, Topping.GARLIC}, size: Size.SMALL, price: $14.50)"],"totalPrice":40.28}
+
