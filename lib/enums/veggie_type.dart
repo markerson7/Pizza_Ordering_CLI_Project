@@ -1,0 +1,1 @@
+enum VeggieType { MUSHROOM, ONION, PEPPER, OLIVES, SPINACH }

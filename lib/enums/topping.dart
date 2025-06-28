@@ -1,0 +1,10 @@
+enum Topping {
+  CHEESE,
+  PINEAPPLE,
+  JALAPENOS,
+  GARLIC,
+  BASIL,
+  PESTO,
+  BBQ_SAUCE,
+  EXTRA_CHEESE,
+}
